@@ -8,7 +8,7 @@
   <br>
   [Spans 65+ pages across 4 different endings.]
   <br>
-  <a href="https://docs.google.com/document/d/1Z_14m0v5G3WvaZcicwP7CZh_NU2DR0XP5cJQx06itaM/edit?tab=t.356gmegku62l"> Publicly playable HERE in Google Docs.
+  <a href="https://docs.google.com/document/d/1Z_14m0v5G3WvaZcicwP7CZh_NU2DR0XP5cJQx06itaM/edit?tab=t.0"> Publicly playable in Google Docs.
 </div>
 
 <h2>Story Premise</h2>
