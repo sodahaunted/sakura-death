@@ -1,4 +1,4 @@
-> Note: these were the first original plans for the game, which ended up being cut due to time constraints. A lot of these are loose dot-jots from brainstorming ideas and were not written with organization in mind;;
+> Note: these were the original plans for the game, but they were cut due to time constraints. A lot of these are loose dot-jots from brainstorming ideas.
 
 ### Main plot for the game
 
@@ -27,12 +27,12 @@
 
 #### NARU - childhood friend
 - known Kunabo since elementary school, but they didn't talk much until last year
-- shipped together with kunabo by their friend groups but hated it
+- shipped together with Kunabo by their friend groups but hated it
 - knows how to crack a good joke
 - she doesn't seem to be interested in relationships
 - that doesn't mean kunabo isn't
 
-> sakura-death was originally planned to have 3 main love interests you could pick from, but Kina was completely cut out. Naru was going to have her own dedicated route related to Kubano joining debate club to impress her. (might be in a future update? maybe)
+> Sakura-death was originally planned to have 3 main love interests you could pick from, but Kina was completely cut out. Naru was going to have her own dedicated route related to Kubano joining debate club to impress her. (might be in a future update? maybe)
 
 #### KINA - meek butterfly
 - always surrounded by people but somehow still shy
